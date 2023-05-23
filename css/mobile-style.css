@@ -215,10 +215,15 @@ header {
 
 .card-lang {
   display: flex;
+  flex-wrap: wrap;
   justify-content: flex-start;
   gap: 8px;
   list-style-type: none;
   margin: 12px 15px;
+}
+
+.card-lang li {
+  flex: 0 0 calc(25.33% - 8px); /* Adjust this calculation as needed */
 }
 
 .lang1 {
@@ -771,7 +776,7 @@ a {
   border: 1px solid #396df2;
   border-radius: 8px;
   color: #396df2;
-  padding: 10px;
+  padding: 2px;
   display: flex;
   justify-content: space-between;
   align-items: center;

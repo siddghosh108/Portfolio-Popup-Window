@@ -145,12 +145,12 @@ function openProjectPopup(e) {
      </ul>
      </div>
      <div class="see-container">
-     <a href="https://github.com/MariamOsman11/-Portfolio-.git" id="popup-link" class="see-live" target="_blank">
-     <span>seeLive</span>
+     <a href="https://github.com/siddghosh108/Portfolio-Popup-Window.git" id="popup-link" class="see-live" target="_blank">
+     <span>Seelive</span>
      <img src="./images/live.png" class="see-image">
      </a>
-     <a href="https://github.com/MariamOsman11/-Portfolio-.git" id="popup-link" class="see-live">
-     <span>seeSource</span>
+     <a href="https://github.com/siddghosh108/Portfolio-Popup-Window.git" id="popup-link" class="see-live">
+     <span>Seesource</span>
      <img src="./images/github.png" class="see-image">
      </a>
      </div>
