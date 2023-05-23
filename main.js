@@ -146,11 +146,11 @@ function openProjectPopup(e) {
      </div>
      <div class="see-container">
      <a href="https://github.com/siddghosh108/Portfolio-Popup-Window.git" id="popup-link" class="see-live" target="_blank">
-     <span>Seelive</span>
+     <span>See live</span>
      <img src="./images/live.png" class="see-image">
      </a>
      <a href="https://github.com/siddghosh108/Portfolio-Popup-Window.git" id="popup-link" class="see-live">
-     <span>Seesource</span>
+     <span>See source</span>
      <img src="./images/github.png" class="see-image">
      </a>
      </div>
