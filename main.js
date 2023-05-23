@@ -150,7 +150,7 @@ function openProjectPopup(e) {
      <img src="./images/live.png" class="see-image">
      </a>
      <a href="https://github.com/siddghosh108/Portfolio-Popup-Window.git" id="popup-link" class="see-live">
-     <span>See source</span>
+     <span>Seesource</span>
      <img src="./images/github.png" class="see-image">
      </a>
      </div>
