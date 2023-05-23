@@ -682,11 +682,11 @@ a {
 
 .mobile-wrapper {
   position: relative;
-  width: 85%;
+  width: 100%;
   height: 95%;
   background-color: #fff;
   align-items: center;
-  padding: 5px 16px;
+  padding: 5px 8px;
   border: 1px solid #dfe1e6;
   border-radius: 5px;
   margin-left: auto;
@@ -792,10 +792,12 @@ a {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin: 20px auto;
+  margin: 5px auto;
+  width: 100%;
 }
 
 .work-tag-button-wrapper {
   display: flex;
   flex-direction: column;
+  width: 100%;
 }
